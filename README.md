@@ -1,4 +1,3 @@
-# results.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -85,35 +84,35 @@
       </tr>
       <tr>
         <td>Botany (Theory + Practical)</td>
-        <td>92</td>
-        <td>100</td>
+        <td>55</td>
+        <td>60</td>
         <td class="grade-A1">A1</td>
       </tr>
       <tr>
         <td>Zoology (Theory + Practical)</td>
-        <td>95</td>
-        <td>100</td>
+        <td>58</td>
+        <td>60</td>
         <td class="grade-A1">A1</td>
       </tr>
       <tr>
         <td>Physics (Theory + Practical)</td>
-        <td>78</td>
-        <td>100</td>
+        <td>48</td>
+        <td>60</td>
         <td class="grade-B1">B1</td>
       </tr>
       <tr>
         <td>Chemistry (Theory + Practical)</td>
-        <td>68</td>
-        <td>100</td>
+        <td>43</td>
+        <td>60</td>
         <td class="grade-B2">B2</td>
       </tr>
     </table>
     <div class="summary">
-      <strong>Total Marks:</strong> 494 / 600<br>
+      <strong>Total Marks:</strong> 365 / 440<br>
       <strong>Result:</strong> PASSED
     </div>
     <div class="note">
-      <em>Note: This is a sample result format. Grades are as per the official AP Inter grading system: A1 (91-100), A2 (81-90), B1 (71-80), B2 (61-70), C1 (51-60), C2 (41-50), D1 (35-40), F (34 & below)[1][3][4]. For official results, please refer to the BIEAP website.</em>
+      <em>Note: This is a sample result format. Grades are as per the official AP Inter grading system. For official results, please refer to the BIEAP website.</em>
     </div>
   </div>
 </body>
